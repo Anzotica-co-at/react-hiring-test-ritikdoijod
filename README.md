@@ -1,3 +1,80 @@
+
+# Submission
+
+Preview: https://rdaz.netlify.app/
+
+<br>
+
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v18 or higher recommended)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+### Setup Instructions
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/Anzotica-co-at/react-hiring-test-ritikdoijod
+   cd react-hiring-test-ritikdoijod
+   ```
+
+2. **Install dependencies:**
+
+   ```sh
+   npm install
+   ```
+
+### Running the Project
+
+To start the development server:
+
+```sh
+npm run dev
+```
+
+This will start the app at [http://localhost:5173](http://localhost:5173) (or another available port).
+
+## Building for Production
+
+To build the project for production:
+
+```sh
+npm run build
+```
+
+## Preview Production Build
+
+To preview the production build locally:
+
+```sh
+npm run preview
+```
+
+## Project Structure
+
+- `src/` - Source code
+- `src/components/ui/` - UI Components
+- `src/components/layout/` - Layout Components
+- `public/` - Static assets
+- `index.html` - Main HTML file
+
+---
+---
+
+<br>
+<br>
+<br>
+Original README starts from here...
+<br>
+<br>
+<br>
+
+
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2MYYzS_A)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19885602&assignment_repo_type=AssignmentRepo)
 # React Frontend Assessment – UI Replication Task
